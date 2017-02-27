@@ -6,4 +6,4 @@
 
 echo "Hello Linux User"
 echo ""
-command -v java
+echo {command -v java}
