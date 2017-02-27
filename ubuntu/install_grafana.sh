@@ -6,4 +6,4 @@ blue="$(tput setaf 4)"
 reset="$(tput sgr0)"
 bold="$(tput bold)"
 
-echo "$red $bold Hello World"
+echo "$red $bold Hello World $reset"
